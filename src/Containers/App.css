@@ -1,0 +1,11 @@
+@font-face {
+    font-family:'CHARMOMANN';
+    font-weight: 400;
+    src: url('./ASS.TTF') format('truetype');
+}
+
+h1{
+    font-family:'CHARMOMANN';
+    font-weight: 200;
+    color:#0ccac4
+}
